@@ -36,3 +36,7 @@ Run on Linux:
 ## Learning Outcomes
 
 Practiced linked-list manipulation, carry and borrow handling, and arithmetic operations on large integers.
+
+👨‍💻 Author Jitendra Sharma
+
+Electronics & Embedded Systems Enthusiast
